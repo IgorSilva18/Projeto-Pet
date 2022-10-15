@@ -1,0 +1,22 @@
+@media (min-width:300px){
+    header{
+        width: 100vw;
+        background-size: 65% 50%;
+        background-attachment: fixed;
+    }
+    h1{
+        font-size: 2em;
+    }
+    h2#titulo2{
+        font-size: 1em;
+    }
+    main{
+        margin: 0% 5% 0% 5%;
+    }
+    h1.textodegrade{
+        font-size: 2em;
+    }
+    h2.textopequeno{
+        font-size: 1em;
+    }
+}
