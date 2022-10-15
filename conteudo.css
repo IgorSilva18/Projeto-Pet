@@ -7,7 +7,7 @@
         header{
             text-align: center;
             height: 60vh;
-            background-image: url(pexels-edgar-daniel-hernández-cervantes-3628100.jpg);
+            background-image: url(imagens/pexels-edgar-daniel-hernández-cervantes-3628100.jpg);
             background-size: 100% 70%;
             background-attachment: fixed;
             
@@ -56,13 +56,13 @@
         #bloco1{
             top: 100vh;
             background-attachment: fixed;
-            background-image: url(pet\ e\ familia.jpg);
+            background-image: url(imagens/pet\ e\ familia.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;
         }
         #bloco2{
             top: 200vh;
-            background-image: url(cat-is-being-given-an-injection.jpg);
+            background-image: url(imagens/cat-is-being-given-an-injection.jpg);
             background-size: 100% 100%;
             background-attachment: fixed;
         }
